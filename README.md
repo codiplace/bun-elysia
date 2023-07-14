@@ -1,13 +1,12 @@
-# Elysia with Bun runtime
+# How deploy bun application on fly.io
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+1. fly launch
+2. fly deploy
 
 ## Development
+
 To start the development server run:
+
 ```bash
 bun run dev
 ```
